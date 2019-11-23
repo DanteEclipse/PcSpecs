@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: A.Gangstar
-Package-Name: DeskAutoFinal
-Main-Class: DeskInfo.class
